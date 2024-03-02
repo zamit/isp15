@@ -1,0 +1,88 @@
+
+DESKTOP-QKD3T9U	Wed Jan 24 12:15:20 2024
+	WNET/wnet_error: CreateFile errno = 53
+
+
+DESKTOP-QKD3T9U	Wed Jan 24 12:15:58 2024
+	WNET/wnet_error: CreateFile errno = 53
+
+
+DESKTOP-QKD3T9U	Wed Jan 24 12:16:56 2024
+	WNET/wnet_error: CreateFile errno = 53
+
+
+DESKTOP-QKD3T9U	Wed Jan 24 12:17:01 2024
+	WNET/wnet_error: CreateFile errno = 53
+
+
+DESKTOP-QKD3T9U	Wed Jan 24 12:17:16 2024
+	WNET/wnet_error: CreateFile errno = 53
+
+
+DESKTOP-QKD3T9U	Wed Jan 24 12:18:14 2024
+	WNET/wnet_error: CreateFile errno = 53
+
+
+DESKTOP-QKD3T9U	Wed Jan 24 12:19:06 2024
+	WNET/wnet_error: CreateFile errno = 53
+
+
+LAPTOP-R9L57VNV	Thu Feb  8 12:34:04 2024
+	INET/INET_connect: getaddrinfo(Z,3050) failed: Этот хост неизвестен. 
+
+
+LAPTOP-R9L57VNV	Thu Feb  8 12:34:14 2024
+	INET/INET_connect: getaddrinfo(Z,3050) failed: Этот хост неизвестен. 
+
+
+DATA-09	Mon Feb 12 16:06:43 2024
+	INET/INET_connect: getaddrinfo(Z,3050) failed: Этот хост неизвестен. 
+
+
+DATA-09	Mon Feb 12 16:08:34 2024
+	INET/INET_connect: getaddrinfo(Z,3050) failed: Этот хост неизвестен. 
+
+
+DATA-09	Mon Feb 12 16:09:55 2024
+	INET/INET_connect: getaddrinfo(Z,3050) failed: Этот хост неизвестен. 
+
+
+DATA-09	Mon Feb 12 16:10:15 2024
+	INET/INET_connect: getaddrinfo(Z,3050) failed: Этот хост неизвестен. 
+
+
+DATA-09	Mon Feb 12 16:10:34 2024
+	INET/INET_connect: getaddrinfo(Z,3050) failed: Этот хост неизвестен. 
+
+
+DATA-09	Mon Feb 12 16:10:56 2024
+	INET/INET_connect: getaddrinfo(Z,3050) failed: Этот хост неизвестен. 
+
+
+DATA-09	Mon Feb 12 16:11:37 2024
+	INET/INET_connect: getaddrinfo(Z,3050) failed: Этот хост неизвестен. 
+
+
+DATA-09	Mon Feb 12 16:12:10 2024
+	INET/INET_connect: getaddrinfo(Z,3050) failed: Этот хост неизвестен. 
+
+
+DESKTOP-GEK68SS	Mon Feb 12 14:39:51 2024
+	INET/inet_error: read errno = 10054, server host = 192.168.40.2, address = 192.168.40.2/3050
+
+
+DESKTOP-GEK68SS	Thu Feb 15 11:57:10 2024
+	INET/inet_error: read errno = 10054, server host = 192.168.40.2, address = 192.168.40.2/3050
+
+
+DESKTOP-HOCTHOH	Thu Feb 15 12:09:01 2024
+	INET/inet_error: read errno = 10054, server host = 192.168.40.2, address = 192.168.40.2/3050
+
+
+DESKTOP-HOCTHOH	Tue Feb 27 14:51:22 2024
+	INET/inet_error: read errno = 10054, server host = 192.168.40.2, address = 192.168.40.2/3050
+
+
+DESKTOP-HOCTHOH	Tue Feb 27 14:51:47 2024
+	INET/inet_error: read errno = 10054, server host = 192.168.40.2, address = 192.168.40.2/3050
+
